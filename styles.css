@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    font-family: font-family: "Roboto", sans-serif;
+    ;
+}
+
+
+.post-card {
+    max-width: 400px;
+    background: #fff;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.post-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.fa-html5 {
+    font-size: 1.5rem;
+    color:black;
+}
+
+.post-icons i {
+    font-size: 1.5rem;
+    margin-right: 1rem;
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.post-icons i:hover {
+    color: black;
+}
